@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-633-lf-147-add-claim-winnings-pull-payouts-with-tie",
+    "feat/issue-634-lf-148-refunds-don-t-move-tokens-and-cancel",
+    "feat/issue-635-lf-149-protocol-fee-and-treasury-configuration",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-633-lf-147-add-claim-winnings-pull-payouts-with-tie": "main",
+    "feat/issue-634-lf-148-refunds-don-t-move-tokens-and-cancel": "main",
+    "feat/issue-635-lf-149-protocol-fee-and-treasury-configuration": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-633-lf-147-add-claim-winnings-pull-payouts-with-tie",
+    "feat/issue-634-lf-148-refunds-don-t-move-tokens-and-cancel",
+    "feat/issue-635-lf-149-protocol-fee-and-treasury-configuration",
+    "origin"
+  ]
+}
